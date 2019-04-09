@@ -15,7 +15,7 @@ Systems engineer with expertise in realtime signal processing, human interfaces,
 ## Projects
 - Real-time fMRI processing tool: https://github.com/LewisPeacockLab/instabrain
 - MRI compatible keyboard: https://github.com/LewisPeacockLab/rewire-keyboard
-- Website for real-time fMRI community: https://github.com/LewisPeacockLab/rtfin-lit
+- Website for real-time fMRI community ([rtfin.org](http://www.rtfin.org/literature.html)): https://github.com/LewisPeacockLab/rtfin-lit
 
 ## Skills
 
