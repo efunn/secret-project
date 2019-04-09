@@ -26,15 +26,15 @@ Systems engineer with expertise in realtime signal processing, human interfaces,
 ## Academics
 
 ### Publications
-- **Oblak, E.**, Sulzer, J., Lewis-Peacock, J. (2019). **A simulation-based approach to improve decoded neurofeedback performance**. _NeuroImage_.
-- **Oblak, E.**, Lewis-Peacock, J., Sulzer, J. (2017). **Self-regulation strategy, feedback timing and hemodynamic properties modulate learning in a simulated fMRI neurofeedback environment**. _PLoS Computational Biology_.
-- An MRI-compatible force sensor for measuring differential isometric precision grip force (Han et al., Proceedings of IEEE EMBS, 2017)
-- Sitaram, R., Ros, T., Stoeckel, L., Haller, S., Scharnowski, F., Lewis-Peacock, J., Weiskopf, N., Blefari, M.L., Rana, M., **Oblak, E.**, Birbaumer, N., Sulzer, J. (2016). **Closed-loop brain training: The science of neurofeedback**. _Nature Reviews Neuroscience_.
+
+- **Oblak, E.**, Sulzer, J., Lewis-Peacock, J. (2019). **[A simulation-based approach to improve decoded neurofeedback performance](https://doi.org/10.1016/j.neuroimage.2019.03.062)**. _NeuroImage_.
+- **Oblak, E.**, Lewis-Peacock, J., Sulzer, J. (2017). **[Self-regulation strategy, feedback timing and hemodynamic properties modulate learning in a simulated fMRI neurofeedback environment](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005681)**. _PLoS Computational Biology_.
+- Han, C., **Oblak, E.**, Abraham, L., Ferrari, P., McManis, M., Schnyer, D., Sulzer J. (2017). **[An MRI-compatible force sensor for measuring differential isometric precision grip force](https://www.ncbi.nlm.nih.gov/pubmed/29059991)**. _Proceedings of IEEE EMBS_.
+- Sitaram, R., Ros, T., Stoeckel, L., Haller, S., Scharnowski, F., Lewis-Peacock, J., Weiskopf, N., Blefari, M.L., Rana, M., **Oblak, E.**, Birbaumer, N., Sulzer, J. (2016). **[Closed-loop brain training: The science of neurofeedback](https://www.nature.com/articles/nrn.2016.164)**. _Nature Reviews Neuroscience_.
 
 ### Invited talks
-- Simulated fMRI neurofeedback reveals principles of neural self-regulation (Real-time Functional Imaging and Neurofeedback Conference, 2017)
 
-### Selected coursework
+- Simulated fMRI neurofeedback reveals principles of neural self-regulation (Real-time Functional Imaging and Neurofeedback Conference, Nara, Japan, 2017)
 
 ## Undergraduate work
 
