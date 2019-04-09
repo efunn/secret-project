@@ -17,11 +17,11 @@ Systems engineer with expertise in realtime signal processing, human interfaces,
 - MRI compatible keyboard: https://github.com/LewisPeacockLab/rewire-keyboard
 - Website for real-time fMRI community: https://github.com/LewisPeacockLab/rtfin-lit
 
-## Coding
-- Good at: Python, Matlab, Arduino
-- Can work with: C++, C#, Ruby
-- Give me a minute: Javascript, CSS
-- Also good with: OnShape, Solidworks, Eagle, Illustrator, Photoshop
+## Skills
+
+- Coding: Python, Matlab, Arduino (familiar with C#, C++, Ruby, Javascript, CSS)
+- CAD: OnShape, Solidworks, EAGLE
+- Graphics: Illustrator, Photoshop
 
 ## Academics
 
