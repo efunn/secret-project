@@ -25,9 +25,9 @@ e@ethanoblak.com
 
 ## Skills
 
-- Coding: Python, Matlab, Arduino (familiar with C#, C++, Ruby, Javascript, CSS)
+- Coding: Python, Matlab, Arduino (familiar with Unity/C#, C++, Ruby, Javascript, CSS)
 - CAD: OnShape, Solidworks, EAGLE
-- Graphics: Illustrator, Photoshop
+- Graphics: Illustrator, Photoshop, Matplotlib
 
 ## Academics
 
