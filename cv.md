@@ -1,8 +1,8 @@
 # Ethan Oblak
-e@ethanoblak.com
 
-## Summary
 Systems engineer with expertise in realtime signal processing, human interfaces, and device design.
+
+e@ethanoblak.com
 
 ## Education
 - PhD in Mechanical Engineering, University of Texas at Austin (expected December 2019)
