@@ -10,18 +10,18 @@ e@ethanoblak.com
 
 ## Graduate work
 - Graduate Research Assistant in real-time fMRI with Dr. James Sulzer and Dr. Jarrod Lewis-Peacock (2014-present)
-    - developed a framework to simulate how people learn to control fMRI signals in real-time ([Oblak et al., 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005681))
-    - validated this framework with an fMRI experiment where presses of individual fingers (index/middle/ring/little) could be decoded from 6 seconds of fMRI data ([Oblak et al., 2019](https://doi.org/10.1016/j.neuroimage.2019.03.062))
-    - currently using real-time fMRI to train healthy people to shift the neural patterns associated with individual finger movements, with implications for stroke rehabilitation
+    - Developed a framework to simulate how people learn to control fMRI signals in real-time ([Oblak et al., 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005681))
+    - Validated this framework with an fMRI experiment where presses of individual fingers (index/middle/ring/little) could be decoded from 6 seconds of fMRI data ([Oblak et al., 2019](https://doi.org/10.1016/j.neuroimage.2019.03.062))
+    - Currently using real-time fMRI to train healthy people to shift the neural patterns associated with individual finger movements, with implications for stroke rehabilitation
 - Teaching Assistant in Engineering Computational Methods (Fall 2013)
 
 ## Projects
 - Real-time fMRI decoding tool: https://github.com/LewisPeacockLab/instabrain
-    - lightweight Python tool to decode brain states from fMRI in real-time and send the results to a separate feedback display computer
+    - Lightweight Python tool to decode brain states from fMRI in real-time and send the results to a separate feedback display computer
 - MRI compatible keyboard: https://github.com/LewisPeacockLab/rewire-keyboard
-    - mechanical, electrical, and firmware design for force-sensitive keyboards with a simple USB interface
+    - Mechanical, electrical, and firmware design for force-sensitive keyboards with a simple USB interface
 - Website for real-time fMRI community ([rtfin.org](http://www.rtfin.org/literature.html)): https://github.com/LewisPeacockLab/rtfin-lit
-    - operates using GitHub Pages and CircleCI to allow community members to submit literature to a repository through pull requests
+    - Operates using GitHub Pages and CircleCI to allow community members to submit literature to a repository through pull requests
 
 ## Skills
 
@@ -36,11 +36,17 @@ e@ethanoblak.com
 - **Oblak, E.**, Sulzer, J., Lewis-Peacock, J. (2019). **[A simulation-based approach to improve decoded neurofeedback performance](https://doi.org/10.1016/j.neuroimage.2019.03.062)**. _NeuroImage_.
 - **Oblak, E.**, Lewis-Peacock, J., Sulzer, J. (2017). **[Self-regulation strategy, feedback timing and hemodynamic properties modulate learning in a simulated fMRI neurofeedback environment](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005681)**. _PLoS Computational Biology_.
 - Han, C., **Oblak, E.**, Abraham, L., Ferrari, P., McManis, M., Schnyer, D., Sulzer J. (2017). **[An MRI-compatible force sensor for measuring differential isometric precision grip force](https://www.ncbi.nlm.nih.gov/pubmed/29059991)**. _Proceedings of IEEE EMBS_.
-- Sitaram, R., Ros, T., Stoeckel, L., Haller, S., Scharnowski, F., Lewis-Peacock, J., Weiskopf, N., Blefari, M.L., Rana, M., **Oblak, E.**, Birbaumer, N., Sulzer, J. (2016). **[Closed-loop brain training: The science of neurofeedback](https://www.nature.com/articles/nrn.2016.164)**. _Nature Reviews Neuroscience_.
+- Sitaram, R., Ros, T., Stoeckel, L., Haller, S., Scharnowski, F., Lewis-Peacock, J., Weiskopf, N., Blefari, M.L., Rana, M., **Oblak, E.**, Birbaumer, N., Sulzer, J. (2016). **[Closed-loop brain training: the science of neurofeedback](https://www.nature.com/articles/nrn.2016.164)**. _Nature Reviews Neuroscience_.
 
 ### Invited talks
 
 - Simulated fMRI neurofeedback reveals principles of neural self-regulation (Real-time Functional Imaging and Neurofeedback Conference, Nara, Japan, 2017)
+
+### Awards
+- Warren A. and Alice L. Meyer Endowed Scholarship in Engineering from UT Austin (2018-2019)
+- Funded by a Robert J. Kleberg, Jr. and Helen C. Kleberg Foundation
+Medical Research Grant (2017-2019)
+- NSERC Postgraduate Scholarship (2013-2014)
 
 ## Undergraduate work
 
